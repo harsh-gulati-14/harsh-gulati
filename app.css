@@ -1,0 +1,79 @@
+h1{
+	color:black;
+	background: rgba(247, 158, 231,.6);
+	border: 5px solid purple;
+	border-radius: 20px;
+	text-shadow: 2px 2px red;
+	font-family: Vivaldi;
+	font-size: 80px;
+	}
+.n{
+	margin-right:90%;
+	margin-left:10%;
+  box-sizing:border-box;
+  box-shadow:below;
+  text-align:right;
+  background-color:yellow;
+  background-repeat:repeat;
+}
+ul.topnav {
+  
+  position:absolute;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:yellow;
+  width:80%;
+}
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: black;
+  font-size:20px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ul.topnav li a:hover:not(.a) {background-color:red;}
+.ab{
+	color:orange;
+	 box-sizing: border-box;
+	background:rgba(0,0,90,.5); 
+	border: 1px soldi lightgrey;	
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 		
+	line-height: normal;
+}
+.bug{
+	color:orange;
+	background:rgba(0,0,0,.5);
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;  
+}
+body{
+	background: url(https://images.wallpaperscraft.com/image/loneliness_man_sunset_132970_1920x1080.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.thank{
+	background: yellow;
+	border: 2px dashed red;
+}
+.he{
+	color:yellow;
+	background: rgba(0,0,0,.5);
+	border: 1px soldi lightgrey;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 	
+}
+.edu{
+	color:yellow;
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 		
+	line-height: normal;
+}
+h3{
+	color:yellow;
+	background: rgba(200,50,50,.5);
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 		
+	line-height: normal;
+
+	}
